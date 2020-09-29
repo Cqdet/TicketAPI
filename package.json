@@ -1,0 +1,12 @@
+{
+  "name": "ticket-api",
+  "version": "1.0.0",
+  "description": "A Ticket API for Discord Bots (Using Eris)",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eris": "^0.13.3",
+    "typescript": "^4.0.3"
+  }
+}
